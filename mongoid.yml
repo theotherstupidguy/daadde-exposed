@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: daad 
+      hosts:
+        - localhost:27017

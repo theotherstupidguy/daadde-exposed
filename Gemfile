@@ -1,0 +1,5 @@
+gem 'grape', '0.6.1'
+gem 'sinatra', '1.4.4'
+gem 'json', '1.8.1'
+gem 'mongoid', '3.1.6' 
+gem 'nokogiri', '1.6.1'
